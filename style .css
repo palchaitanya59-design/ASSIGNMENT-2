@@ -1,0 +1,31 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    background:#f0f0f0;
+}
+
+input{
+    padding:8px;
+    width:200px;
+}
+
+button{
+    padding:8px 12px;
+    cursor:pointer;
+}
+
+#weatherResult{
+    margin-top:20px;
+    font-size:18px;
+}
+
+ul{
+    list-style:none;
+    padding:0;
+}
+
+li{
+    cursor:pointer;
+    color:blue;
+    margin:5px;
+}
